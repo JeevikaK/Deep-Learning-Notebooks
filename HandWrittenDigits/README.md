@@ -14,7 +14,7 @@ This project demonstrates a simple handwritten digit recognition system using a 
 Install dependencies using:
 
 ```bash
-pip install -r requirements.txt
+pip install .
 ```
 ## Setup
 - Clone the repository and navigate into the project directory:
