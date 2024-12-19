@@ -21,7 +21,6 @@ pip install .
 ```bash
 git clone <repository_url>
 cd <repository_directory>
-Prepare the MNIST dataset:
 ```
 - Prepare the MNIST dataset:
 ```bash
