@@ -21,7 +21,6 @@ pip install tensorflow numpy pandas scikit-learn opencv-python matplotlib
     ```bash
     git clone <repository_url>
     cd <repository_directory>
-    pip install -r requirements.txt
     ```
 
 2. Prepare the Fashion MNIST dataset: Download and extract the Fashion MNIST dataset to the `dataset/` folder. You can download it from [here](https://github.com/zalandoresearch/fashion-mnist).
